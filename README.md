@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AvrUsername
+- 👋 Hi, I’m Mz
 - 👀 I’m interested in coding, GNU/Linux and more
-- 🌱 I’m currently learning figma/kotlin/jetpackcompose/C++
+- 🌱 I would like tolearning figma/kotlin/jetpackcompose/C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Telegram @NormalMZuser
+- 📫 How to reach me Telegram @Userliberte
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm newbie 
